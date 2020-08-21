@@ -52,7 +52,7 @@ Renames the current tab with the name provided.
 ------------------------------------------------------------------------------
 TabooOpen <name>                                                   *TabooOpen*
 
-To opn a new tab next to active. An argument (the tab name) is required.
+To open a new tab next to active. An argument (the tab name) is required.
 Opens a new tab and and gives it the name provided.
 
 
